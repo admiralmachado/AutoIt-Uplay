@@ -7,8 +7,9 @@
 1. Download the latest release
 2. Rename the .exe to something unique related to your game (e.g. "watch_dogs.exe")
 3. Start the program
-4. Browse to the game's .exe file (Usually in C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\games\&lt;Game Folder&gt;)
+4. Browse to the game's .exe file (Usually in C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\games\\&lt;Game Folder&gt;)
 5. Test to make sure setup worked correctly. If not, delete the .ini file that was created (e.g. "watch_dogs.ini") and go back to step 3.
+6. For additional games, copy the .exe and go back to Step 2.
 
 ## A Warning About Uplay Cloud Save Sync
 
